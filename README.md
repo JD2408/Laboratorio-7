@@ -15,3 +15,5 @@ Definir los conceptos más importantes que definen a un inductor y capacitor con
 3. Verificar las combinaciones serie y paralelo de bobinas y capacitores.
 4. Familiarizarse con el uso de instrumentos de medida.
 ## 2. MARCO TEÓRICO
+
+![Diagrama en blanco (21)](https://user-images.githubusercontent.com/94129932/152908565-294ed469-328f-48de-801e-cbebe91ec830.png)
