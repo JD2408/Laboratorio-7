@@ -18,6 +18,9 @@ Definir los conceptos más importantes que definen a un inductor y capacitor con
 
 ![Diagrama en blanco (21)](https://user-images.githubusercontent.com/94129932/152908565-294ed469-328f-48de-801e-cbebe91ec830.png)
 
+![Diagrama en blanco (22)](https://user-images.githubusercontent.com/94129932/152999215-a90eeaf5-47ba-4bbf-baa8-df463c07e475.png)
+
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 *Materiales*
 - Generador de señales
@@ -75,8 +78,11 @@ El valor eficaz de una corriente alterna, es el valor que tendría una corriente
 
 ## 5. VIDEO
 
-
-
 ## 6. CONCLUSIONES
+1. El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+2. Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc). 
+3. Mientras mayor sea la frecuencia la impedancia capacitiva será menor.
+4. Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
 
 ## 7. BIBLIOGRAFÍA
+Salazar, A. (2012, 9 abril). CAPACITANCIA e INDUCTANCIA. Inductancia_y_Capacitancia. Recuperado 7 de febrero de 2022, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf
