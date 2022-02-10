@@ -31,13 +31,24 @@ Definir los conceptos más importantes que definen a un inductor y capacitor con
 - Cables conductores
 - Resistencias, bobinas y capacitores.
 
+
+Armamaos el primer circuito en Acdc Lab poniendo los valores correctos de capacitores, resistencias y fuente de voltaje Ac.
+
 ![Imagen1](https://user-images.githubusercontent.com/94129932/152995081-2215fee7-d181-4ead-8f79-f447966fce10.jpg)
+
+Conectamos el Osciloscopio para verificar las ondas y tomamos los valores picos de estas.
 
 ![Imagen2](https://user-images.githubusercontent.com/94129932/152995272-2d55bf4b-c02a-486a-b547-7dfd1882adfa.jpg)
 
+EN esta imagen solo comprobamos el valor pico alto  que corre por los capacitores.
 ![Imagen3](https://user-images.githubusercontent.com/94129932/152995288-8f66aba0-c922-4dc0-a5df-18bdbc6e8f36.jpg)
 
+
+Ahora conectamos el voltimetro para verificar que nuestros datos se han correctos.
+
 ![Imagen4](https://user-images.githubusercontent.com/94129932/152995299-2ab3aa4c-b5ab-45f1-9d9b-2a6d7c63d46c.jpg)
+
+Conectamos el amperimetro para poder asumir la corriente y colocarlo en la tabla.
 
 ![Imagen5](https://user-images.githubusercontent.com/94129932/152995308-a20e1f57-d8f1-406e-a0e2-1f05ab59eca5.jpg)
 
