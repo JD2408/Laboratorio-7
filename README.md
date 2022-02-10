@@ -78,6 +78,8 @@ El valor eficaz de una corriente alterna, es el valor que tendría una corriente
 
 ## 5. VIDEO
 
+https://youtu.be/naao-RPiO-M
+
 ## 6. CONCLUSIONES
 1. El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
 2. Es posible representar la impedancia para cada una de las frecuencias asociadas en los  dos  circuitos  como  un  número  complejo  donde  predomina  en  un  caso  la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc). 
